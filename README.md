@@ -2,8 +2,8 @@
 
 #Node Version - 18
 # Steps to run the project 
-clone the code.
-npm i to install dependencey
+Clone the repo to local machine.
+Run npm i to install all the dependencey
 
 # Note - 
 create .env in root of the project 
