@@ -6,6 +6,6 @@ Clone the repo to local machine.
 Run npm i to install all the dependencey
 
 # Note - 
-create .env in root of the project 
-add JWT_SECRET key in env file.
+Create .env in root of the project 
+Add JWT_SECRET key in .env file.
 npm start to run the project.
